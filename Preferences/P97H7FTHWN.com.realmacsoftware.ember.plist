@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotationColor</key>
+	<integer>6</integer>
+	<key>annotationLineWidth</key>
+	<integer>2</integer>
+	<key>annotationSmartDrawingEnabled</key>
+	<true/>
+	<key>areaSnapLastSnappedScreenNumber</key>
+	<string>69679040</string>
+	<key>areaSnapScreenCropRects</key>
+	<dict>
+		<key>69679040</key>
+		<string>{{2, 3}, {1438, 782}}</string>
+	</dict>
+	<key>didPromptToMigrateLibrary</key>
+	<true/>
+	<key>editImageApplicationBundleIdentifier</key>
+	<string>com.apple.Preview</string>
+	<key>emberIntroductionStep</key>
+	<integer>5</integer>
+	<key>emberLibraryUseUbiquitous</key>
+	<false/>
+	<key>exportFileType</key>
+	<integer>2</integer>
+	<key>exportIncludeAnnotations</key>
+	<true/>
+	<key>newsletterApplicationLaunchCount</key>
+	<integer>12</integer>
+	<key>newsletterShown</key>
+	<true/>
+	<key>quitLibraryMediatorAtTermination</key>
+	<false/>
+	<key>sidebarHidingOptions</key>
+	<integer>0</integer>
+	<key>snapDesktopKeyCombo2</key>
+	<dict>
+		<key>keyCode</key>
+		<integer>20</integer>
+		<key>modifierFlags</key>
+		<integer>1310985</integer>
+	</dict>
+	<key>statusItemStateType</key>
+	<integer>2</integer>
+	<key>viewSourceApplicationBundleIdentifier</key>
+	<string>com.barebones.textwrangler</string>
+</dict>
+</plist>
